@@ -5,9 +5,9 @@ Nearly one in four job postings in the US alone require some data science skills
 
 This powerful specialisation from the University of London and IBM gives you the perfect academic and industry-informed practical introduction to data science. You get:
 
--            Progress transfer for the University of London’s BSc in Computer Science
+- Progress transfer for the University of London’s BSc in Computer Science
 
--            The foundational skills and knowledge you need to get a job in a data-rich environment.
+- The foundational skills and knowledge you need to get a job in a data-rich environment.
 
 During this specialisation, you’ll be introduced to data science, statistics, programming, computational thinking, machine learning, and more. You’ll discover the role of data science in today’s data-driven world. Plus, you’ll get hands-on using IBM’s data science tools, giving you practical experience to talk about in interviews.
 
