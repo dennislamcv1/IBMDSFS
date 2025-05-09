@@ -1,5 +1,5 @@
 # IBMDSFS
-## Data Science Foundations Specialization
+## Data Science Foundations Specialization (8 course series)
 
 Nearly one in four job postings in the US alone require some data science skills and employers are paying up to 14% more for those skills. (Report : ExcelinEd & the Burning Glass Institute).
 
